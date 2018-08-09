@@ -1,2 +1,2 @@
 # angular-spring-api
-Curso Angular com Sprign API
+Curso Angular com Spring API 
